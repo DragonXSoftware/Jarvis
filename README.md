@@ -48,6 +48,13 @@
      ```bash
      python JarvisUI.py
      ```
+5. **Optional: Use the Start Script (Linux/macOS)**
+   - If you're on Linux or macOS, you can use the included `start.sh` script to launch Jarvis UI:
+     ```bash
+     chmod +x start.sh
+     ./start.sh
+     ```
+   - Make sure Ollama is running in the background before using this script.
 
 ---
 
